@@ -44,7 +44,10 @@
 
 ### 📊 Stats
 
+
 ![Estadísticas de Sergio Correas en GitHub](https://github-readme-stats.vercel.app/api?username=sergiogit18&show_icons=true&theme=gruvbox)
+
+![Estadísticas de Sergio Correas en GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=sergiogit18&show_icons=true&theme=gruvbox&layout=compact)
 
 #
 
